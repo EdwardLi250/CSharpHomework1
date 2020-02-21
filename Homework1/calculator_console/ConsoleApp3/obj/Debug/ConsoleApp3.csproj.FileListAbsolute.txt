@@ -1,0 +1,6 @@
+D:\vs 2019 projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\vs 2019 projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\vs 2019 projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\vs 2019 projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+D:\vs 2019 projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\vs 2019 projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
